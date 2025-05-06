@@ -1,25 +1,20 @@
 ---
 layout: home
 hero:
-  name: Principles
-  text: A VitePress Site
-  tagline: Simple, powerful, and performant documentation
+  name: 方法论
+  text: 大霸哥收集的各种方法论
+  tagline: 时间管理, 个人成长
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/
+      text: 开始了解
+      link: /time_management/four_quadrant/
     - theme: alt
       text: View on GitHub
-      link: https://github.com
+      link: https://github.com/zpbc007/principles-valut
 features:
-  - title: Simple and Minimal
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VitePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  - title: 时间管理
+    details: 当代时间驯兽师指南
+  - title: 个人成长
+    details: 咸鱼翻身指南
 ---
 
-# Welcome to Principles
-
-This is a VitePress site created to document important principles and concepts.

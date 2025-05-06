@@ -1,10 +1,9 @@
-https://github.com/webpro/programming-principles?tab=readme-ov-file#kiss
 
+
+// https://github.com/webpro/programming-principles?tab=readme-ov-file#kiss
+
+// https://en.wikipedia.org/wiki/List_of_eponymous_laws
 const linkData = [
-  {
-    href: "/wiki/Acton%27s_dictum",
-    title: "Acton's dictum",
-  },
   {
     href: "/wiki/Aitken%27s_law",
     title: "Aitken's law",

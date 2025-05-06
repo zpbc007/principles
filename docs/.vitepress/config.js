@@ -1,24 +1,23 @@
 export default {
-  title: 'Principles',
-  description: 'A VitePress Site',
+  title: '方法论',
+  description: '大霸哥收集的各种方法论',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
+      { text: '时间管理', link: '/time_management/' },
     ],
     sidebar: {
-      '/guide/': [
+      '/time_management/': [
         {
-          text: 'Guide',
+          text: '时间管理',
           items: [
-            { text: 'Introduction', link: '/guide/' },
-            { text: 'Getting Started', link: '/guide/getting-started' },
+            { text: '四象限', link: '/time_management/four_quadrant/' },
           ]
         }
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/zpbc007/principles-valut' }
     ]
   }
 }
